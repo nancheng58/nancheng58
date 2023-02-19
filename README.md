@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋.
 
 <!--
 **nancheng58/nancheng58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![nancheng58's GitHub stats](https://github-readme-stats.vercel.app/api?username=nancheng58&show_icons=true&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![nancheng58's GitHub stats](https://github-readme-stats.vercel.app/api?username=nancheng58&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
