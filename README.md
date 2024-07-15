@@ -1,6 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=nancheng58" alt="nancheng58" />
 
-### Hi there 👋.
+### Hi there 👋. 
+I'm a second-year M.Sc student at IRLab of Shandong University, working on Information Retrieval. 
 <!--
 **nancheng58/nancheng58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
