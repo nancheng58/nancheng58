@@ -1,5 +1,6 @@
-### Hi there 👋.
+<img align="right" src="https://komarev.com/ghpvc/?username=nancheng58" alt="nancheng58" />
 
+### Hi there 👋.
 <!--
 **nancheng58/nancheng58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
